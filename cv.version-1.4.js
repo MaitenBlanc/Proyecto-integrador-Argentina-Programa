@@ -1,4 +1,4 @@
-//Función para que salgan los datos de la API al usar onmouseover en cada logo.
+//Función para que se muestren los datos de la API al usar onmouseover en cada logo.
 
 const data = ["Nombre:", "E-Mail:", "Fecha de Nacimiento:", "Dirección:", "Teléfono:"];
 const subData = ["name", "email", "date", "location", "phone", "picture"];
